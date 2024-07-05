@@ -3,7 +3,8 @@
     "emotes.json",
     "pig.json",
     "frog.json",
-    "meme_team_design.json"
+    "meme_team_design.json",
+    "dog_shiba.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
