@@ -2,7 +2,8 @@
   "packs": [
     "emotes.json",
     "pig.json",
-    "frog.json"
+    "frog.json",
+    "meme_team_design.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
