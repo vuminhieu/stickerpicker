@@ -1,6 +1,7 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes.json",
+    "pig.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
