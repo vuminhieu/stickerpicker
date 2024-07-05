@@ -5,7 +5,8 @@
     "frog.json",
     "meme_team_design.json",
     "dog_shiba.json",
-    "meomeo.json"
+    "meomeo.json",
+    "line.json"
   ],
   "homeserver_url": "https://matrix.htigroup.vn"
 }
