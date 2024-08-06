@@ -3,8 +3,8 @@ import * as widgetAPI from "./widget-api.js";
 import {SearchBox} from "./search-box.js";
 
 const GIPHY_SEARCH_DEBOUNCE = 1000
-let GIPHY_API_KEY = "HQku8974Uq5MZn3MZns46kXn2R4GDm75"
-let GIPHY_MXC_PREFIX = "mxc://giphy.mau.dev/"
+let GIPHY_API_KEY = "gGh2C7PLcwWqPDARAY53vx9Ho2vLPmBG"
+let GIPHY_MXC_PREFIX = "mxc://htgroup/"
 
 export function giphyIsEnabled() {
 	return GIPHY_API_KEY !== ""
