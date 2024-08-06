@@ -4,7 +4,7 @@ import {SearchBox} from "./search-box.js";
 
 const GIPHY_SEARCH_DEBOUNCE = 1000
 let GIPHY_API_KEY = "gGh2C7PLcwWqPDARAY53vx9Ho2vLPmBG"
-let GIPHY_MXC_PREFIX = "mxc://htgroup/"
+let GIPHY_MXC_PREFIX = "mxc://htigroup/"
 
 export function giphyIsEnabled() {
 	return GIPHY_API_KEY !== ""
